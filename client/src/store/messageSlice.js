@@ -2,7 +2,7 @@ import { createSlice } from "@reduxjs/toolkit"
 
 const initialState = {
   messages: [
-    {id: 1, text: "Спец. Администратор Alvaro_Hold зашел на сервер!"}
+    {id: 1, text: "Добро пожаловать на Test Roleplay"}
   ]
 }
 
